@@ -11,3 +11,5 @@ print "smartgit"
 print "dev1"
 print "dev2"
 print "dev1"
+
+print "---------------------------"
