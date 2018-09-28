@@ -6,3 +6,4 @@ print "使用stash"
 print "与远端建立连接"
 
 print "smartgit"
+print "smartgit"
