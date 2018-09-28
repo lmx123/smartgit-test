@@ -7,3 +7,5 @@ print "与远端建立连接"
 
 print "smartgit"
 print "smartgit"
+
+print "dev2"
