@@ -2,3 +2,5 @@
 print "今天是个好日子"
 
 print "使用git reset --hard进行回退"
+
+print "测试冲突"
